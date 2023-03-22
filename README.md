@@ -9,6 +9,15 @@
  
  # Description
  
+ <details open>
+    <summary>To Run the To Do List</summary>
+    <ul>
+        <li>git clone</li>
+        <li>Open the terminal</li>
+        <li>npm i</li>
+    </ul>
+</details>
+ 
  - To Run the To Do List
  -- git clone 
  -- Open the terminal
