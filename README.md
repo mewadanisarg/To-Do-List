@@ -9,6 +9,7 @@
  
  # Description
  
+ - Click to drop down list
  <details>
     <summary>To Run the To Do List</summary>
     <ul>
